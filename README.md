@@ -1,5 +1,5 @@
 # amazon_search_scrape
-Amazon Search Product using Scrapy 
+Amazon Product Search Using Scrapy 
 
 1. install pip , make virtualenv , install requirments.txt 
 2. following codes scrape the search 'mobile phone' from amazon.com
