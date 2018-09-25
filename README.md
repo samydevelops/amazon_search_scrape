@@ -6,6 +6,6 @@ Amazon Search Product using Scrapy
 3. to get the output in a json file (example provided) , using teminal go to root folder and run the below command:
    scrapy crawl amazon_spider -o file.json
    
-Happy Scrapying !!   
+Happy Scrapy-ing !!   
 
 
